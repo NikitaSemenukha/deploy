@@ -1,3 +1,6 @@
-#1 npm i
+#first
+npm i
 
-# npm run start
+#start
+
+npm run start
