@@ -2,7 +2,7 @@
   "name": "social_media",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikitasemenukha.github.io/social_media",
+  "homepage": "https://nikitasemenukha.github.io/deploy",
   "dependencies": {
     "@material-tailwind/react": "^2.1.9",
     "@testing-library/jest-dom": "^5.17.0",
